@@ -1,0 +1,6 @@
+D:\Studia\Algorytmy\Algorytmy Lista 2\Algorytmy Lista 2\obj\Debug\Algorytmy Lista 2.csprojResolveAssemblyReference.cache
+D:\Studia\Algorytmy\Algorytmy Lista 2\Algorytmy Lista 2\bin\Debug\Algorytmy Lista 2.exe.config
+D:\Studia\Algorytmy\Algorytmy Lista 2\Algorytmy Lista 2\bin\Debug\Algorytmy Lista 2.exe
+D:\Studia\Algorytmy\Algorytmy Lista 2\Algorytmy Lista 2\bin\Debug\Algorytmy Lista 2.pdb
+D:\Studia\Algorytmy\Algorytmy Lista 2\Algorytmy Lista 2\obj\Debug\Algorytmy Lista 2.exe
+D:\Studia\Algorytmy\Algorytmy Lista 2\Algorytmy Lista 2\obj\Debug\Algorytmy Lista 2.pdb
